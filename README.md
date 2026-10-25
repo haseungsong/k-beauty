@@ -8,7 +8,9 @@
 2. GitHub 저장소의 **Settings → Pages**에서 배포 원본을 `Deploy from a branch`로 선택하고, 기본 브랜치(예: `main`)의 `/(root)`를 지정해 저장합니다.
 3. Pages가 제공하는 사이트 주소를 열어 언어 전환, 차트, 상세 창, 원문 링크를 확인합니다.
 
-보고서를 하위 폴더에 넣으면 해당 폴더의 주소에서 사이트가 열립니다. 저장소 루트 주소에 보고서를 표시하려면 `index.html`을 최상위에 둡니다.
+GitHub Pages는 인터넷에 공개되는 사이트입니다. 원자료를 포함한 보고서를 공개할 권한을 확인한 뒤 Pages를 켜세요. [GitHub 공식 안내](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+이미 `cultural-market-site`처럼 홈페이지가 있는 저장소에 추가할 때는 기존 홈페이지를 덮어쓰지 않도록 `brasil-kbeauty/` 같은 새 폴더 안에 이 ZIP의 파일을 넣으세요. 주소는 저장소의 Pages 주소 뒤에 `/brasil-kbeauty/`를 붙이면 됩니다. 새 저장소에서 이 보고서를 첫 화면으로 쓰려면 파일을 저장소 최상위(root)에 올립니다.
 
 ## 파일 구성
 
@@ -23,4 +25,4 @@
 
 Relatório estático bilíngue em coreano e português brasileiro. Use o botão `Português` / `한국어` no topo para alternar o idioma. Inclui painel, análises detalhadas, material de referência Okno, explorador dos dados agregados da Serasa e arquivos de apoio.
 
-Para publicar no GitHub Pages, envie todos os arquivos e pastas deste pacote para a raiz do repositório e selecione `Settings → Pages → Deploy from a branch → /(root)`.
+Para publicar no GitHub Pages, envie todos os arquivos e pastas deste pacote para a raiz do repositório e selecione `Settings → Pages → Deploy from a branch → /(root)`. Se o repositório já tiver um site, coloque os arquivos em uma pasta nova, como `brasil-kbeauty/`, para preservar a página inicial atual. O site do Pages fica público na internet; confirme a autorização para publicar os documentos de apoio.
