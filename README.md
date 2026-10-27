@@ -1,6 +1,6 @@
 # 브라질 K-뷰티 소비자 인사이트 | Executive Briefing
 
-한국어와 브라질 포르투갈어로 볼 수 있는 정적 보고서 사이트입니다. 첫 화면의 `Português` / `한국어` 버튼으로 전환합니다. 차트, 상세 분석, Okno 참고자료, Serasa 5개 표본 × 40개 문항 탐색기와 연결된 출처·집계 데이터를 함께 제공합니다.
+한국어와 브라질 포르투갈어로 볼 수 있는 정적 보고서 사이트입니다. 첫 화면의 `Português` / `한국어` 버튼으로 전환합니다. 차트, 상세 분석, Okno 참고자료, Serasa 5개 표본 × 40개 문항 탐색기와 연결된 출처·집계 데이터를 함께 제공합니다. Page4에는 문화원·경제단체·기업이 함께하는 협업 행사 파일럿과 역할·성과 지표 제안을 담았습니다.
 
 ## GitHub에 업로드하고 Pages로 공개하기
 
@@ -23,6 +23,6 @@ GitHub Pages는 인터넷에 공개되는 사이트입니다. 원자료를 포�
 
 ## Português
 
-Relatório estático bilíngue em coreano e português brasileiro. Use o botão `Português` / `한국어` no topo para alternar o idioma. Inclui painel, análises detalhadas, material de referência Okno, explorador dos dados agregados da Serasa e arquivos de apoio.
+Relatório estático bilíngue em coreano e português brasileiro. Use o botão `Português` / `한국어` no topo para alternar o idioma. Inclui painel, análises detalhadas, material de referência Okno, explorador dos dados agregados da Serasa, arquivos de apoio e uma proposta de evento colaborativo na Page 4.
 
 Para publicar no GitHub Pages, envie todos os arquivos e pastas deste pacote para a raiz do repositório e selecione `Settings → Pages → Deploy from a branch → /(root)`. Se o repositório já tiver um site, coloque os arquivos em uma pasta nova, como `brasil-kbeauty/`, para preservar a página inicial atual. O site do Pages fica público na internet; confirme a autorização para publicar os documentos de apoio.
